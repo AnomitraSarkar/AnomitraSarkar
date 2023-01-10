@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnomitraSarkar
 - 👀 I’m interested in : astronomy and programming, electronics, research work, litreature.
-- 🌱 I’m currently known and learning these languages and framework more : Html, CSS, javascript, python, java, c++, visual basic, gsap, mysql, nodejs, reactjs, bootstrap, threejs, socket.io, php, mongodb... 
+- 🌱 I’m currently known to and learning these languages and framework more : Html, CSS, javascript, python, java, c++, visual basic, gsap, mysql, nodejs, reactjs, bootstrap, threejs, socket.io, php, mongodb... 
 - 💞️ I’m looking to collaborate on : some potiential and interesting project 
 - 📫 How to reach me : email me at anomitrasarkar05@gmail.com
 
