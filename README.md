@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @AnomitraSarkar
-- 👀 I’m interested in : astronomy and programming, electronics, research work, litreature.
-- 🌱 I’m currently known to and learning these languages and framework more : Html, CSS, javascript, python, java, c++, visual basic, gsap, mysql, nodejs, reactjs, bootstrap, threejs, socket.io, php, mongodb, flutter and android development... 
-- 💞️ I’m looking to collaborate on : some potiential and interesting project 
-- 📫 How to reach me : email me at anomitrasarkar05@gmail.com
+# 👋 Hi, I'm Anomitra Sarkar  
 
-As a teenager I am a freelancer on fiverr and freelancer and my gigs are web designing, typists, content writer, website review; still not a pro but trying...
+🚀 **Aspiring Developer | Tech Enthusiast | Freelancer**  
 
-I am a Newbie trying to learn as much as I can...
+## 🌌 About Me  
+I'm a passionate **developer, researcher, and tech enthusiast** with a deep interest in **astronomy, programming, electronics, and literature**. Constantly learning and exploring new technologies, I strive to create impactful and innovative solutions.  
+
+As a **freelancer on Fiverr and Freelancer**, I offer services in **web design, content writing, website reviews, and more**. While I'm still honing my skills, I'm always eager to take on new challenges and grow as a developer.  
+
+---
+
+## 🛠️ Tech Stack  
+### **Languages & Frameworks I Work With:**  
+- **Frontend:** HTML, CSS, JavaScript, GSAP, React.js, Three.js, Bootstrap  
+- **Backend:** Node.js, PHP, Socket.io, MySQL, MongoDB  
+- **Mobile & App Development:** Flutter, Android Development  
+- **Programming Languages:** Python, Java, C++, Visual Basic  
+
+---
+
+## 💡 What I'm Looking For  
+💞 I'm open to collaborating on **exciting and impactful projects**—especially in **web development, AI, space tech, and research-based applications**. If you have an interesting idea, let's connect!  
+
+---
+
+## 📬 Get in Touch  
+📧 **Email:** [anomitrasarkar05@gmail.com](mailto:anomitrasarkar05@gmail.com)  
+
+🚀 *Let's build something amazing together!*  
