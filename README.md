@@ -67,5 +67,5 @@ If you want someone who turns vague constraints into savage prototypes, let’s 
 
 ---
 
-> 🔭 Currently: finishing B.Tech (VIT '26), experimenting with systems, ML, and language design.  
+> 🔭 Currently: finishing B.Tech ('26), experimenting with systems, ML, and language design.  
 > ⚡ Fun fact: I enjoy designing DSLs and making frameworks that are intentionally opinionated and tiny.
