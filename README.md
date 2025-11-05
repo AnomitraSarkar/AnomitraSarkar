@@ -3,7 +3,7 @@
 > tinkerer · systems challenger · full-stack & ML explorer  
 > I build weird little languages, bend frameworks to my will, and make systems do things they weren’t designed to.
 
-[🌐 dezors.com](https://dezors.com) · [🧩 opennetwork.com](https://opennetwork.com) · [💻 GitHub/@AnomitraSarkar](https://github.com/AnomitraSarkar)
+[🌐 dezors.com](https://dezors.com) · [🧩 opennetwork.dezors.com](https://opennetwork.dezors.com) · [💻 GitHub/@AnomitraSarkar](https://github.com/AnomitraSarkar)
 
 ---
 
@@ -53,7 +53,7 @@ Notable roles: **AI Intern (Samsung PRISM)** · **Full Stack Application Develop
 - Email: **anomitrasarkar05@gmail.com**  
 - Portfolio: [anomitrasarkar.netlify.app](https://anomitrasarkar.netlify.app)  
 - LinkedIn: [linkedin.com/in/anomitrasarkar](https://www.linkedin.com/in/anomitrasarkar)  
-- Websites I’m building / involved with: [dezors.com](https://dezors.com) · [opennetwork.com](https://opennetwork.com)
+- Websites I’m building / involved with: [dezors.com](https://dezors.com) · [opennetwork.dezors.com](https://opennetwork.dezors.com)
 
 ---
 
