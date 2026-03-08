@@ -13,7 +13,7 @@ I’m a Computer Science Engineer (VIT, Class of 2026) who gets a kick out of re
 I ship full-stack apps, train ML models, design tiny DSLs, and prototype systems that ask new questions.  
 I like projects that blur the lines between software, hardware, and research.
 
-Notable roles: **AI Intern (Samsung PRISM)** · **Full Stack Application Developer (Stoodive)**
+Notable roles: **Deputy Manager - Software Developer (Bharti Airtel PVT LTD)** · **AI Intern (Samsung PRISM)** · **Full Stack Application Developer (Stoodive)**
 
 ---
 
